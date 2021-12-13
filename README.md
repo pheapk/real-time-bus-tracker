@@ -1,7 +1,8 @@
 # Real Time Bus Tracker
 
 ### Description
-Realtime bus tracker shows bus movement on the map realtime using map API and public transport data. 
+Real time bus tracker shows bus movement on the map real time using mapbox API and public transport data. 
+Bus stops are predefined and map markers move along those stops. 
 
 ### How to Run
 - You need to create an account with mapbox so you can get an token for accessing map API
