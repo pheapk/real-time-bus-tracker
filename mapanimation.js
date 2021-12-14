@@ -15,7 +15,8 @@ const busStops = [
 ];
 
 // TODO: add your own access token
-mapboxgl.accessToken = '';
+// MIT xPro Token
+mapboxgl.accessToken = 'pk.eyJ1IjoicGhpb21hcDAyIiwiYSI6ImNrd2xwN2s5ZjI0bTEyb3A4amx3ZzB1cmsifQ.2rgUKnIxx2sVi9_gawvNgw';
 
 // This is the map instance
 let map = new mapboxgl.Map({
